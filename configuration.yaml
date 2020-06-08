@@ -1,0 +1,7 @@
+serveur_path: '/opt/intershop/eserver1/share/system/cartridges'
+ssh_key_dir: "C:/Users/vvaleze/OneDrive - DATASOLUTION/RoyalTS/"
+ssh_key_path: "Valentin_VALEZE.pri"
+serv_dev: "isas1@10.253.201.109:"
+projet_path: "C:\\ish\\projects\\ish-raja\\src"
+commande:  "scp -i"
+#ommande: "pscp -i"

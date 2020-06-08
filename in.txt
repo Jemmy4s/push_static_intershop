@@ -1,0 +1,2 @@
+src/rajasmart_app_sf_responsive/staticfiles/cartridge/pipelines/ViewOrderTemplate.pipeline
+src/rajasmart_app_sf_responsive/staticfiles/cartridge/pipelines/ProcessOrderTemplate.pipeline
